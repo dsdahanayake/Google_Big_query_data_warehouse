@@ -135,8 +135,7 @@ def implicit():
 
 
 if __name__ == '__main__':
-    # implicit()
-    # query_stackoverflow()
+    # implicit()    
     # tableInfo()
     # queryDim_aisle()
     # creatFactTable()
